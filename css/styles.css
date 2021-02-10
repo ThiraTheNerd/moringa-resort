@@ -18,12 +18,25 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color: darksalmon;
-}
-body{
-  background-image:url(/images/homepageimage.jpg)
+  background-color:black;
+  color: white;
 }
 #homepageimage{
-  height: 750px;
+  height: 500px;
   width: 1000px;
+  /* float:right;
+  overflow: hidden; */
+}
+#logo{
+  margin-right: 10px;
+}
+.column{
+  float:left;
+  margin: 50px;
+  
+}
+.row{
+  margin-left: 75px;
+  margin-right: 75px;
+  font-size: large;
 }
