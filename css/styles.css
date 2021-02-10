@@ -20,3 +20,7 @@ li a{
 li a:hover{
   background-color: darksalmon;
 }
+.intro{
+  background-image:url('/images/pexels-asad-photo-maldives-3155666.jpg');
+  background-color: black;
+}
