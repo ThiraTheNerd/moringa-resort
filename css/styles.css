@@ -40,3 +40,8 @@ li a:hover{
   margin-right: 75px;
   font-size: large;
 }
+a:active{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
