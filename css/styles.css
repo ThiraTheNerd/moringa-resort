@@ -31,6 +31,7 @@ li a:hover{
   margin-right: 10px;
 }
 .column{
+  
   float:left;
   padding: 150;
   
@@ -44,4 +45,7 @@ a:active{
   background-color: black;
   color: white;
   text-decoration: none;
+}
+#paragraph2{
+  float: left;
 }
